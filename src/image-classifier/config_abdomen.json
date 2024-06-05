@@ -1,0 +1,22 @@
+{
+    "metrics": [
+     "accuracy"
+    ],
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "loss": "BinaryCrossentropy",
+    "layers": [],
+    "epochs": 1500,
+    "epochs-finetuning": 20,
+    "patience": 200,
+    "batch_size": 32,
+    "deep-model": "inception",
+    "resizing-width": 80,
+    "resizing-height": 80,
+    "transfer-learning": true,
+    "fine-tuning": false,
+    "dataset": "../../data/images/{path_cv}/Abdomen",
+    "width": 720,
+    "height": 720,
+    "weights": "imagenet"
+   }
