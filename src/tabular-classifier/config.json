@@ -1,0 +1,46 @@
+{
+    "dataset" : "../../data/tabular/{dataset_name}.csv",
+    "norm_model" : "Robust",
+    "models_names": [
+        [
+         "SVC",
+         {}
+        ],
+        [
+         "GaussianNB",
+         {}
+        ],
+        [
+         "XGBClassifier",
+         {}
+        ],
+        [
+         "AdaBoostClassifier",
+         {}
+        ],
+        [
+         "DecisionTreeClassifier",
+         {}
+        ],
+        [
+         "MLPClassifier",
+         {}
+        ],
+        [
+         "RandomForestClassifier",
+         {}
+        ],
+        [
+         "KNeighborsClassifier",
+         {}
+        ],
+        [
+         "LogisticRegression",
+         {}
+        ]
+       ],
+       "numeric_features": [
+       ],
+       "target_column" : "Class",
+       "kfolds" : 3
+}
