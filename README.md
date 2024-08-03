@@ -1,6 +1,6 @@
 # Prediction of vaginal delivery after labour induction
 
-The present repository is related with two works for the prediction of vaginal delivery or cesarean section. The first work *Predicting vaginal delivery after labor induction using machine learning: development of a multivariable prediction model* uses tabular data from past patients to train a machine learning system. The second work, *Ensemble learning for fetal ultrasound and maternal-fetal data to predict mode of delivery after labor induction*, creates an ensemble as uses two sources of data: the previous tabular dataset with patients history, and images from ultrasounds.
+The present repository is related with two works for the prediction of vaginal delivery or cesarean section. The first work *Predicting vaginal delivery after labor induction using machine learning: development of a multivariable prediction model*  uses retrospectively collected tabular data to train a machine learning system. The second work, *Ensemble learning for fetal ultrasound and maternal-fetal data to predict mode of delivery after labor induction*, creates an ensemble as uses two sources of data: the previous retrospectively collected tabular data of the patients, and images from ultrasounds from the same individuals.
 
 ## Predicting vaginal delivery after labor induction using machine learning: development of a multivariable prediction model
 
