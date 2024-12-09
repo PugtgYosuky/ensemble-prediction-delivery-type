@@ -44,12 +44,20 @@ The present repository is related with two works for the prediction of vaginal d
   year={2024},
   publisher={Nature Publishing Group UK London}
 }
+
+@article{ferreira2024predicting,
+  title={Predicting vaginal delivery after labor induction using machine learning: Development of a multivariable prediction model},
+  author={Ferreira, Iolanda and Sim{\~o}es, Joana and Correia, Jo{\~a}o and Areia, Ana Lu{\'\i}sa},
+  journal={Acta Obstetricia et Gynecologica Scandinavica},
+  year={2024},
+  publisher={Wiley Online Library}
+}
 ```
 
 ## Corresponding emails
 
 - <iolandaferreira04@gmail.com> (corresponding author)
-- <joanasimoes@student.dei.uc.pt> (for questions about the code)
+- <joanasimoes@dei.uc.pt> (for code-related questions)
 
 ## Data availability
 
