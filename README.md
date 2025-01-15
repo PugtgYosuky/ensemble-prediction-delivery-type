@@ -15,6 +15,19 @@ The present repository is related with two works for the prediction of vaginal d
 
 1. Run the scripts inside *src/tabular-classifier*, following the instruction on on *src/tabular-classifier/README.md*
 
+### Citation
+
+```bibtex
+@article{ferreira2024predicting,
+  title={Predicting vaginal delivery after labor induction using machine learning: Development of a multivariable prediction model},
+  author={Ferreira, Iolanda and Sim{\~o}es, Joana and Correia, Jo{\~a}o and Areia, Ana Lu{\'\i}sa},
+  journal={Acta Obstetricia et Gynecologica Scandinavica},
+  year={2024},
+  publisher={Wiley Online Library}
+}
+```
+
+
 ## Ensemble learning for fetal ultrasound and maternal-fetal data to predict mode of delivery after labor induction
 
 ### Authors
@@ -43,14 +56,6 @@ The present repository is related with two works for the prediction of vaginal d
   pages={15275},
   year={2024},
   publisher={Nature Publishing Group UK London}
-}
-
-@article{ferreira2024predicting,
-  title={Predicting vaginal delivery after labor induction using machine learning: Development of a multivariable prediction model},
-  author={Ferreira, Iolanda and Sim{\~o}es, Joana and Correia, Jo{\~a}o and Areia, Ana Lu{\'\i}sa},
-  journal={Acta Obstetricia et Gynecologica Scandinavica},
-  year={2024},
-  publisher={Wiley Online Library}
 }
 ```
 
